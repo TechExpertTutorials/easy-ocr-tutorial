@@ -1,0 +1,7 @@
+Image                    Accuracy
+------------			 --------					 
+table1.png				 0.910
+invoice1.png			 0.642
+dl1.png					 0.507
+hw_clean.jpg			 0.092
+Document.jpg             0.076
