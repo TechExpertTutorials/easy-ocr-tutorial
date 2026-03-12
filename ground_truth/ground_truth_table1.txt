@@ -1,0 +1,22 @@
+| First Name | Last Name | Age | Country | Sex | Job Title |
+|-------------|-----------|-----|---------|-----|----------|
+| Isabella    | Rossi     | 32  | Italy   | F   | Software Engineer |
+| Kenji       | Tanaka    | 45  | Japan   | M   | Architect |
+| Olivia      | Dubois    | 28  | France  | F   | Marketing Manager |
+| Samuel      | Silva     | 51  | Brazil  | M   | Accountant |
+| Aisha       | Khan      | 24  | Pakistan| F   | Data Analyst |
+| William     | Miller    | 39  | United States | M   | Teacher |
+| Sofia       | Garcia    | 60  | Spain   | F   | Retired |
+| David       | Chen      | 31  | China   | M   | Financial Analyst |
+| Emily       | Petrova   | 26  | Russia  | F   | Graphic Designer |
+| Michael     | O'Connell | 48  | Ireland | M   | Project Manager |
+| Lena        | Schmidt   | 29  | Germany | F   | Research Scientist |
+| Javier      | Vargas    | 55  | Mexico  | M   | Business Owner |
+| Chloe       | Singh     | 22  | India   | F   | Student |
+| Ethan       | Novak     | 37  | Czech Republic | M   | Sales Representative |
+| Grace       | Lee       | 41  | South Korea | F   | Nurse |
+| Noah        | Dubois    | 34  | Canada  | M   | Web Developer |
+| Amelia      | Santos    | 27  | Portugal | F   | Human Resources Manager |
+| Benjamin    | Kowalski  | 58  | Poland  | M   | Engineer |
+| Harper      | Jensen    | 25  | Denmark  | F   | Journalist |
+| Lucas       | Nkosi     | 43  | South Africa | M   | Doctor |

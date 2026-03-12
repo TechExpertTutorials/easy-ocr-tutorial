@@ -1,0 +1,11 @@
+ID Number: 1234567890123
+Full Name: Janice Sample
+Address: 123 Main Street Apt. 1, Harrisburg, PA 17101-0000
+Date of Birth: 08/04/1975
+Expiration Date: 03/01/2023
+The ID number is 1234567890123.
+The full name is Janice Sample.
+The address is 123 Main Street Apt. 1, Harrisburg, PA 17101-0000.
+The date of birth is 08/04/1975.
+The expiration date is 03/01/2023.
+The card is a commercial driver's license from Pennsylvania.

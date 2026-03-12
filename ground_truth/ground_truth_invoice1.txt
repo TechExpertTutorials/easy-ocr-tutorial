@@ -1,0 +1,45 @@
+# GG Mobile company
+
+67th Martin street
+Alexander road
+576832
+Email: ggmobile@gmail.com
+Mobile: +12325325325
+GST: 89
+
+Logo
+
+## Bill To
+Thomas Martin
+Thomas Martin
+375 Park Ave #3308,
+Seagram Building
+New York
+
+## Invoice No : ## INV-038
+Invoice Date : 07/01/2025
+
+
+| SI. | Description    | Qty | Rate    | Amount  |
+|---|---|---|---|---|
+| 1   | Razer Kraken X Gaming Headset    | 2   | 4 499,00 | 8 998,00 |
+| 2   | Microsoft Surface Laptop Go 2 128GB SSD, 8GB RAM | 1   | 55 990,00 | 55 990,00 |
+| 3   | Bose Sport Earbuds    | 1   | 17 990,00 | 17 990,00 |
+
+### Total Quantity : 4
+- ** Payment Instructions **
+  Pay Cheque to
+  John Doe
+
+### Subtotal  $ 82 978,00
+- Discount (4%)  -$ 3 319,12
+- VAT (2%)  $ 1 593,18
+
+### Total  $ 81 252,06
+- Paid on 08/01/2025  $ 81 252,06
+
+### Balance Due  $ 0,00
+- ** Total Amount ** ( in words ) :
+  Eighty One Thousand Two Hundred Fifty Two Dollars and Six Cents Only
+
+### Authorized Signatory
